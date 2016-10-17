@@ -1,0 +1,14 @@
+{
+  "name": "react-chat-with-gundb",
+  "version": "1.0.0",
+  "description": "Trying out the functionality of GunDB with a web based chat app built using React.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aleks Blagojevich",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "gun": "^0.3.995"
+  }
+}
