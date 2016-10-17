@@ -1,20 +1,20 @@
 # Real time chat with React & GunDB
 
-[GunDB](https://github.com/amark/gun) is a new real time, distributed, and offline-first database written in JavaScript. I decided to build a quick test app using React to learn a bit more about how this distributed, real time database thing works. I've used firebase in the past and loved it, so this quote is what sold me on it:
+[GunDB](https://github.com/amark/gun) is a new real time, distributed, and offline-first database written in JavaScript. I decided to build a quick test app using React to learn a bit more about how this new distributed, real time database thing works. I've used firebase in the past and loved it, so this quote is what sold me on it:
 
 "It's like an open source firebase." -Mark Nadal
 
-1. Install dependencies with:
+Install dependencies with:
 ```
 npm install
 ```
 
-2. Then, spin up a local node server:
+Then, spin up a local node server:
 ```
 npm start
 ```
 
-3. Hit this url in a browser:
+Hit this url in a browser:
 ```
 http://localhost:8080
 ```
